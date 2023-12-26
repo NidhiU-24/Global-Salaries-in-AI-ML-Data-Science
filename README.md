@@ -30,6 +30,7 @@ This dataset was retrieved from the page https://ai-jobs.net/salaries/download/
         S: less than 50 employees (small)
         M: 50 to 250 employees (medium)
         L: more than 250 employees (large)
+    skills : Python, AWS, SQL, Pytorch, Tableau
 
 
 ## Problem Selection
